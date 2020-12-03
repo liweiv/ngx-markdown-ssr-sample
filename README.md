@@ -1,6 +1,6 @@
 # NgxMarkdownSsrSample
 
-##Run:
+## Run:
 
 ```
 npm i
